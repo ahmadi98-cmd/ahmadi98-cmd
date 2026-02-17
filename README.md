@@ -1,11 +1,7 @@
-<h1 align="center">👋 سلام! من احمدی هستم</h1>
-<h3 align="center">🔹 توسعه‌دهنده Python | JavaScript | PHP 🔹</h3>
+<h1 align="center">👋 Hi, I'm Ahmadi</h1>
+<h3 align="center">🔹 Python | JavaScript | PHP Developer 🔹</h3>
 
-<!-- انیمیشن خوش‌آمدگویی -->
-<!-- بخش آمار (کارت‌های گرافیکی) -->
-
-<!-- زبان‌های اصلی با آیکون -->
-<h3 align="center">🛠️ تکنولوژی‌هایی که کار می‌کنم:</h3>
+<h3 align="center">🛠️ Technologies I Work With:</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
@@ -18,9 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="60" height="60"/>
 </p>
 
-<!-- فریمورک‌ها و ابزارهای تخصصی با بج -->
-<!-- آیکون‌های ابزارهای جانبی -->
-<h3 align="center">🔧 ابزارهایی که استفاده می‌کنم:</h3>
+<h3 align="center">🔧 Tools I Use:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -29,31 +23,15 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-<!-- گراف فعالیت -->
-<h3 align="center">📊 گراف فعالیت گیت‌هاب:</h3>
+<h3 align="center">📊 GitHub Activity Graph:</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadi98-cmd&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="95%"/>
 </p>
 
-<!-- انیمیشن مار -->
-<!-- وضعیت مخزن‌ها و پروژه‌های ویژه - اینجا می‌تونی اسم پروژه‌هات رو وارد کنی -->
-
-<!-- تروفی‌های گیت‌هاب -->
-
-<!-- آمار بازدیدکنندگان و وضعیت -->
-
-<!-- نقل قول برنامه‌نویسی -->
-<!-- آخرین فعالیت‌ها -->
-  
-<!-- این بخش با GitHub Actions به‌روز می‌شه -->
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
-
-<!-- راه‌های ارتباطی - اینجا اطلاعات خودت رو وارد کن -->
-<h3 align="center">📫 راه‌های ارتباطی با من:</h3>
+<h3 align="center">📫 Contact Me:</h3>
 <p align="center">
-  <a href="mailto:ایمیل-شما@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-theb&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ahmadi98-cmd">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -69,12 +47,10 @@
   </a>
 </p>
 
-<!-- ویجیت وضعیت -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadi98-cmd&theme=radical" alt="Profile Summary" width="90%"/>
 </p>
 
-<!-- بخش آخر -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=30" width="100%"/>
 </p>
