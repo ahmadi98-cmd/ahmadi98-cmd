@@ -23,10 +23,6 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-<h3 align="center">📊 GitHub Activity Graph:</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadi98-cmd&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="95%"/>
-</p>
 
 <h3 align="center">📫 Contact Me:</h3>
 <p align="center">
